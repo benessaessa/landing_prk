@@ -3643,12 +3643,12 @@ form .status i {
   .absoluteImage img{
     margin-left: 0rem;
     max-width: 100%;
-    padding-right: 0.6rem;
+    padding-right: 13px;
   }
   .bgYellowContent img{
     max-width: 100%;
     margin-right: 0rem;
-    padding-left: 0.6rem;
+    padding-left: 12px;
   }
   .absolute_text{
     position: relative;
