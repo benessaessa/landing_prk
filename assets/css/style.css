@@ -3617,7 +3617,7 @@ form .status i {
 }
 .absolute_text{
   position: absolute;
-  bottom: 11rem;
+  bottom: 16rem;
 }
 .bgYellowContent{
   position: relative;
@@ -3653,6 +3653,7 @@ form .status i {
   .absolute_text{
     position: relative;
     bottom: 1px;
+    left: 2rem;
   }
 }
 @media screen and (min-width:1600px){
