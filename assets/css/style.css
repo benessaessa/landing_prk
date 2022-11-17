@@ -449,7 +449,7 @@ body.has-loading-screen .page-wrapper:after {
   height: 100%;
   width: 100%;
   content: "";
-  background-color: #000;
+  background-color: rgb(9, 22, 10);
   position: absolute;
   top: 0;
   left: 0;

@@ -161,7 +161,7 @@ $(document).ready(function($) {
             $(".page-wrapper").addClass("loading-done");
             setTimeout(function() {
                 $(".page-wrapper").addClass("hide-loading-screen");
-            }, 500);
+            }, 100);
             $.each( $("#page-header .animate"), function (i) {
                 var $this = $(this);
                 setTimeout(function(){
