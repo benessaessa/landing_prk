@@ -3644,6 +3644,9 @@ form .status i {
     max-width: 100%;
     padding-right: 13px;
   }
+  .big-gallery .slide img{
+    object-fit: contain;
+  }
   .bgYellowContent img{
     max-width: 100%;
     margin-right: 0rem;
@@ -3653,6 +3656,12 @@ form .status i {
     position: relative;
     bottom: 1px;
     left: 2rem;
+  }
+  .footer .social_icons a ,.footer .contact-data .h4{
+    font-size: 14px !important;
+  }
+  .map iframe{
+    height: auto !important;
   }
 }
 @media screen and (min-width:1600px){
