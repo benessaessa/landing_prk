@@ -3646,6 +3646,7 @@ form .status i {
   }
   .big-gallery .slide img{
     object-fit: contain;
+    height: auto;
   }
   .bgYellowContent img{
     max-width: 100%;
