@@ -3661,7 +3661,7 @@ form .status i {
     font-size: 14px !important;
   }
   .map iframe{
-    height: auto !important;
+    height: 300px !important;
   }
 }
 @media screen and (min-width:1600px){
